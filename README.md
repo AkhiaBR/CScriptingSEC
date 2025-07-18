@@ -1,2 +1,3 @@
-# CScriptingSEC
-O repositório CScriptingSEC é dedicado ao desenvolvimento de programas em C, com foco em aplicações de segurança cibernética. Esse repositório faz parte de um curso que ensina os fundamentos da programação em C, voltados para usos práticos em segurança da informação.
+⚠️ AVISO IMPORTANTE ⚠️
+
+Todo o conteúdo e scripts presentes neste repositório são estritamente para fins educacionais e de aprendizado. O uso indevido ou malicioso das ferramentas e conhecimentos aqui compartilhados é de inteira responsabilidade do usuário. Pratique a segurança da informação de forma ética e legal.
