@@ -2,7 +2,7 @@
 
 // um ponteiro é uma variável que guarda o endereço de memória de outra variável
 
-int main (int argc, char *argv[]) { // função principal do programa que recebe argumentos da linha de comando, int argc é o número de argumentos passados e char *argv[] é um array de strings que contém os argumentos passados, se nao tivesse o "*" o argv seria um array de char, ou seja, uma string, já que nao guardaria o endereço de memória de cada argumento
+int main (int argc, char *argv[]) { // int argc é o número de argumentos passados e char *argv[] é um array de strings que contém os argumentos passados, se nao tivesse o "*" o argv seria um array de char, ou seja, uma string, já que nao guardaria o endereço de memória de cada argumento
     if (argc<2) { // verifica se o número de argumentos é menor que 2, ou seja, se não foi passado nenhum argumento além do nome do programa
         printf("HOST SCANNER.\n");
         printf("Modo de uso: ./argumentos.c <IP>\n");
