@@ -58,7 +58,7 @@ int main(void) {
 
 // 'alvo' representa o conteúdo desses campos (os valores armazenados)
 
-// '&alvo' pega o endereço do primeiro byte da struct (ex: 0x1000)
+// '&alvo' pega o endereço do primeiro byte da struct (ex: 0x1000) (o comeco da struct)
 
 // Visualização:
 
